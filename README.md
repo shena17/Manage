@@ -1,5 +1,5 @@
 
 ## Demo
 
-https://eventerproject.netlify.app/
+https://managefrontend.netlify.app/
 
